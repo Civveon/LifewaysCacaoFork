@@ -1,4 +1,5 @@
 {
+    "enabled": false,
     "code": "chocolatepot",
     "variantgroups": [
         { "code": "color", "states": ["blue", "fire", "black", "brown", "cream", "gray", "orange", "red", "tan" ] }

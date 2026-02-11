@@ -7,7 +7,7 @@
         "DocViviVT"
     ],
     "description": "Adds realistic cacao-growing and chocolate production to Vintage Story!",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "dependencies": {
         "game": "1.21.0"
     }
